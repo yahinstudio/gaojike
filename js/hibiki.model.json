@@ -1,5 +1,5 @@
 {"version":"Sample 1.0.0",
-"model":"model.moc",
+"model":"moc/hibiki.moc",
 "textures":[
 "moc/hibiki.2048/texture_00.png"
 ],
